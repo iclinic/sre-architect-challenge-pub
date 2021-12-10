@@ -116,7 +116,7 @@ Restrições:
 ### Serviço CRMess
 
 Para mais informações, acesse:
-<https://github.com/iclinic/sre-architect-challenge-crmess-service/blob/main/README.md>
+<https://github.com/iclinic/sre-architect-challenge-pub/blob/main/crmess.md>
 
 ## Parte 2: A apresentação
 
