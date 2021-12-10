@@ -1,6 +1,5 @@
 # CRMess
 
-[![Test](https://github.com/iclinic/sre-architect-challenge-crmess-service/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/iclinic/sre-architect-challenge-crmess-service/actions/workflows/test.yml)
 [![Coverage Status](https://coveralls.io/repos/github/iclinic/sre-architect-challenge-crmess-service/badge.svg?branch=main&t=uFYJ25)](https://coveralls.io/github/iclinic/sre-architect-challenge-crmess-service?branch=main)
 
 Este serviço visa simular uma API instável de terceiros para o desafio
